@@ -1,2 +1,2 @@
 # umany.log
-http://log.cocoa.moe
+https://umany.github.io
